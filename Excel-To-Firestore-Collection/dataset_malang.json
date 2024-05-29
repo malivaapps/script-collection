@@ -1,0 +1,206 @@
+[
+ {
+   "Nama Destinasi": "Alun-Alun Kota Malang",
+   "Kategori": "Taman Rekreasi",
+   "Deskripsi": "Tempat rekreasi di tengah kota dengan taman bermain dan area kuliner",
+   "Lokasi": "Kota Malang"
+ },
+ {
+   "Nama Destinasi": "Kampung Warna-Warni Jodipan",
+   "Kategori": "Destinasi Instagramable",
+   "Deskripsi": "Kampung yang dicat dengan warna-warni cerah dan menarik untuk fotografi",
+   "Lokasi": "Kota Malang"
+ },
+ {
+   "Nama Destinasi": "Museum Malang Tempo Doeloe",
+   "Kategori": "Museum",
+   "Deskripsi": "Museum dengan koleksi artefak dan informasi tentang sejarah dan budaya Malang",
+   "Lokasi": "Kota Malang"
+ },
+ {
+   "Nama Destinasi": "Pantai Balekambang",
+   "Kategori": "Pantai",
+   "Deskripsi": "Pantai dengan pura di atas batu karang",
+   "Lokasi": " mirip Tanah Lot di Bali"
+ },
+ {
+   "Nama Destinasi": "Gunung Bromo",
+   "Kategori": "Alam",
+   "Deskripsi": "Destinasi terkenal untuk pemandangan matahari terbit dan wisata gunung berapi",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Coban Rondo",
+   "Kategori": "Air Terjun",
+   "Deskripsi": "Air terjun dengan area berkemah dan kegiatan outbound",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Jatim Park 1",
+   "Kategori": "Taman Hiburan",
+   "Deskripsi": "Taman hiburan dengan berbagai wahana permainan",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Jatim Park 2",
+   "Kategori": "Taman Hiburan",
+   "Deskripsi": "Museum satwa dan taman dengan tema alam dan binatang",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Jatim Park 3",
+   "Kategori": "Taman Hiburan",
+   "Deskripsi": "Taman dengan tema dinosaurus dan wahana modern",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Batu Night Spectacular (BNS)",
+   "Kategori": "Taman Hiburan Malam",
+   "Deskripsi": "Taman hiburan malam dengan wahana permainan",
+   "Lokasi": " lampion garden"
+ },
+ {
+   "Nama Destinasi": "Selecta",
+   "Kategori": "Taman Rekreasi",
+   "Deskripsi": "Taman dengan kebun bunga",
+   "Lokasi": " kolam renang"
+ },
+ {
+   "Nama Destinasi": "Museum Angkut",
+   "Kategori": "Museum",
+   "Deskripsi": "Museum kendaraan dengan zona bertema seperti Hollywood dan Eropa",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Eco Green Park",
+   "Kategori": "Taman Hiburan",
+   "Deskripsi": "Taman edukasi dengan konsep ramah lingkungan",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Taman Rekreasi Sengkaling",
+   "Kategori": "Taman Rekreasi",
+   "Deskripsi": "Taman dengan berbagai fasilitas permainan dan kolam renang",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Coban Pelangi",
+   "Kategori": "Air Terjun",
+   "Deskripsi": "Air terjun dengan pemandangan pelangi yang indah",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Pantai Ngliyep",
+   "Kategori": "Pantai",
+   "Deskripsi": "Pantai dengan pasir putih dan tebing karang",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Hawai Waterpark",
+   "Kategori": "Taman Air",
+   "Deskripsi": "Taman air dengan berbagai wahana permainan air",
+   "Lokasi": "Kota Malang"
+ },
+ {
+   "Nama Destinasi": "Lembah Indah Malang",
+   "Kategori": "Glamping",
+   "Deskripsi": "Area glamping dengan pemandangan alam yang menakjubkan",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Kebun Teh Wonosari",
+   "Kategori": "Wisata Alam",
+   "Deskripsi": "Perkebunan teh dengan pemandangan hijau dan fasilitas tur",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Paralayang Batu",
+   "Kategori": "Olahraga Ekstrem",
+   "Deskripsi": "Tempat untuk menikmati paralayang dengan pemandangan kota Batu",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Kusuma Agrowisata",
+   "Kategori": "Agrowisata",
+   "Deskripsi": "Agrowisata dengan berbagai kegiatan petik buah dan sayuran",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Coban Talun",
+   "Kategori": "Air Terjun",
+   "Deskripsi": "Air terjun dengan camping ground dan spot foto menarik",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Taman Labirin Coban Rondo",
+   "Kategori": "Labirin",
+   "Deskripsi": "Taman labirin yang menantang dan menyenangkan",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Batu Secret Zoo",
+   "Kategori": "Kebun Binatang",
+   "Deskripsi": "Kebun binatang modern dengan koleksi hewan yang beragam",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Petik Apel Agro Wisata",
+   "Kategori": "Pertanian",
+   "Deskripsi": "Tempat untuk memetik apel langsung dari pohon",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Pantai Tiga Warna",
+   "Kategori": "Pantai",
+   "Deskripsi": "Pantai dengan air laut yang memiliki tiga gradasi warna",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Coban Sewu",
+   "Kategori": "Air Terjun",
+   "Deskripsi": "Air terjun yang spektakuler dengan banyak aliran air",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Pantai Goa Cina",
+   "Kategori": "Pantai",
+   "Deskripsi": "Pantai dengan gua di tebing karang",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Sumber Sirah",
+   "Kategori": "Kolam Alami",
+   "Deskripsi": "Kolam alami dengan air jernih",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Pantai Sendang Biru",
+   "Kategori": "Pantai",
+   "Deskripsi": "Pantai yang terkenal dengan perahu nelayan dan pulau kecil di tengah laut",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Waduk Selorejo",
+   "Kategori": "Danau",
+   "Deskripsi": "Waduk dengan pemandangan indah dan fasilitas rekreasi",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Pemandian Air Panas Cangar",
+   "Kategori": "Pemandian Air Panas",
+   "Deskripsi": "Pemandian air panas alami dengan fasilitas mandi",
+   "Lokasi": "Kota Batu"
+ },
+ {
+   "Nama Destinasi": "Candi Singosari",
+   "Kategori": "Candi",
+   "Deskripsi": "Candi peninggalan Kerajaan Singosari",
+   "Lokasi": "Kabupaten Malang"
+ },
+ {
+   "Nama Destinasi": "Candi Jago",
+   "Kategori": "Candi",
+   "Deskripsi": "Candi peninggalan Kerajaan Singosari dengan arsitektur unik",
+   "Lokasi": "Kabupaten Malang"
+ }
+]
